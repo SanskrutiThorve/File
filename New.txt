@@ -1,0 +1,3 @@
+Name=Sanskruti Thorve
+Clg=JSPM's BSIOTR
+Description=This is WAD file
